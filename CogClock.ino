@@ -1,6 +1,6 @@
-//  CamClock.ino
+//  CogClock.ino
  /* 
- * This file is part of the CamClock distribution (https://github.com/biocode3D/CamClock.git).
+ * This file is part of the CogClock distribution (https://github.com/biocode3D/CamClock.git).
  * Copyright (c) 2026 John C. Silvia
  * 
  * This program is free software: you can redistribute it and/or modify  
